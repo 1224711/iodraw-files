@@ -125,9 +125,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-287" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1;entryX=0.4;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-254" target="JwQB6CIqd5Kg6M3_PYsa-255">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="760" y="230" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-288" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0.55;entryY=1;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-255" target="JwQB6CIqd5Kg6M3_PYsa-254">
