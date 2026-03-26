@@ -111,16 +111,14 @@
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="162" y="143.54868061874436" />
+              <mxPoint x="170" y="190" />
             </Array>
             <mxPoint x="77.98903994709485" y="335.05786728389467" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-17">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="162" y="174.1765241128299" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="78.97413069061076" y="335.1563564571552" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
