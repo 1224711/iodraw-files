@@ -4,32 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-868" value="核心实体" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="918" y="19" width="727" height="629" as="geometry" />
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-868" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="918" y="19" width="655" height="629" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-869" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="382.2009646302251" y="51.21061946902655" width="107.53054662379421" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="344.3488745980708" y="51.21061946902655" width="96.88102893890675" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-870" value="跑腿员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="149.60771704180064" y="214.86194690265486" width="127.40032154340835" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="134.79099678456592" y="214.86194690265486" width="114.78295819935691" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-871" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="400.9019292604502" y="214.86194690265486" width="127.40032154340835" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="361.1977491961415" y="214.86194690265486" width="114.78295819935691" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-872" value="收藏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="586.7427652733119" y="214.86194690265486" width="108.69935691318328" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="528.6334405144695" y="214.86194690265486" width="97.93408360128618" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-873" value="接单信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="549.3408360128617" y="378.5132743362832" width="146.10128617363344" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="494.93569131832794" y="378.5132743362832" width="131.63183279742765" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-874" value="完成订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="213.89228295819936" y="542.1646017699115" width="144.93247588424438" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="192.70900321543408" y="542.1646017699115" width="130.57877813504825" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-875" value="提现申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="218.99842443729904" y="387.0032743362832" width="147.2700964630225" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="197.30944705148676" y="387.0032743362832" width="132.68488745980707" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-876" value="代取类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="377.9990353697749" y="384.0032743362832" width="146.10128617363344" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="340.5630923895496" y="384.0032743362832" width="131.63183279742765" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-877" value="1:1" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-868" source="JwQB6CIqd5Kg6M3_PYsa-869" target="JwQB6CIqd5Kg6M3_PYsa-870">
           <mxGeometry relative="1" as="geometry">
