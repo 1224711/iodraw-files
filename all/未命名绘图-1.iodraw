@@ -14,10 +14,10 @@
           <mxGeometry x="252" y="13.303002729754322" width="126" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-13" value="登录系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="220" y="43.93084622383986" width="125" height="15.159235668789812" as="geometry" />
+          <mxGeometry x="228" y="43.93084622383986" width="125" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-14" value="微信快捷登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="200" y="74.55868971792539" width="158" height="15.159235668789812" as="geometry" />
+          <mxGeometry x="228" y="74.55868971792539" width="158" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-15" value="查看热门服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="216" y="105.18653321201094" width="158" height="15.159235668789812" as="geometry" />
@@ -87,7 +87,7 @@
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="162" y="51.665150136487725" />
+              <mxPoint x="190" y="70" />
             </Array>
             <mxPoint x="76.99674266884585" y="334.9870032951985" as="sourcePoint" />
           </mxGeometry>
