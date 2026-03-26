@@ -228,16 +228,16 @@
             <mxPoint x="77.05527076826684" y="404.86960306053516" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-33">
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-55" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="162" y="664.2220200181986" />
             </Array>
-            <mxPoint x="77.05527076826684" y="404.86960306053516" as="sourcePoint" />
+            <mxPoint x="80" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-61" value="学生用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="30" y="335.99999999999994" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="335.99999999999994" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
