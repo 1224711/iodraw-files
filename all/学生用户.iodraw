@@ -13,16 +13,16 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-827" value="创建时间&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
           <mxGeometry x="27.741169977924944" y="170" width="87.73951434878587" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-828" value="申请编号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-828" value="申请编号&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
           <mxGeometry x="147.7378587196468" y="170" width="80.64293598233996" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-829" value="代取账号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-829" value="代取账号&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
           <mxGeometry x="260.6379690949227" y="170" width="81.28807947019868" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-830" value="代取姓名&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-830" value="代取姓名&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
           <mxGeometry x="374.1832229580574" y="170" width="80.64293598233996" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-831" value="提现金额&#xa;decimal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-831" value="提现金额&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
           <mxGeometry x="487.08333333333337" y="170" width="81.28807947019868" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-832" value="申请时间&#xa;datetime" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-825">
