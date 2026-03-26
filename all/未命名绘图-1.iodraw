@@ -234,6 +234,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-61" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
+          <mxGeometry x="10" y="344.92999999999995" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
