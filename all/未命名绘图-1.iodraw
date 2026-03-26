@@ -8,7 +8,7 @@
           <mxGeometry x="110" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-10" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="110" y="480" width="459" height="1320" as="geometry" />
+          <mxGeometry x="170" y="170" width="459" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-11" value="学生用户" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="46" y="641.3830755232029" width="47.44313011828935" height="47.44313011828935" as="geometry" />
@@ -79,7 +79,7 @@
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-33" value="提交申诉" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="252" y="1274.358507734304" width="125" height="29.42675159235669" as="geometry" />
         </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" source="c_BuaH2tFHA7NNvzXwKl-11" target="c_BuaH2tFHA7NNvzXwKl-12">
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-34" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.53;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" source="c_BuaH2tFHA7NNvzXwKl-11" target="c_BuaH2tFHA7NNvzXwKl-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="162" y="40.83712465878071" />
