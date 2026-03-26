@@ -144,9 +144,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-290" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-256" target="JwQB6CIqd5Kg6M3_PYsa-257">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="954" y="527" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-291" value="用户管理" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-257" target="JwQB6CIqd5Kg6M3_PYsa-258">
@@ -223,9 +221,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-305" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-260" target="JwQB6CIqd5Kg6M3_PYsa-272">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="964" y="870" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-306" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-272" target="JwQB6CIqd5Kg6M3_PYsa-273">
