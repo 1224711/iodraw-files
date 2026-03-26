@@ -144,9 +144,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-166" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=-0.01;entryY=0.41;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-147" target="JwQB6CIqd5Kg6M3_PYsa-148">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="1018" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-167" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-142" target="JwQB6CIqd5Kg6M3_PYsa-150">
@@ -158,9 +156,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-168" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-143" target="JwQB6CIqd5Kg6M3_PYsa-151">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="820" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
