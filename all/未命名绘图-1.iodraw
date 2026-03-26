@@ -8,10 +8,10 @@
           <mxGeometry x="110" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-10" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="130" y="410" width="459" height="680" as="geometry" />
+          <mxGeometry x="170" y="410" width="459" height="680" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-12" value="注册账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="252" y="13.303002729754322" width="126" height="15.159235668789812" as="geometry" />
+          <mxGeometry x="190" y="13.303002729754322" width="126" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-13" value="登录系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="228" y="43.93084622383986" width="125" height="15.159235668789812" as="geometry" />
@@ -78,9 +78,7 @@
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-12">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="162" y="21.037306642402182" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="76.99674266884585" y="334.9870032951985" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
