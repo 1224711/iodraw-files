@@ -5,37 +5,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-777" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-142" y="224" width="1752" height="266" as="geometry" />
+          <mxGeometry x="-142" y="224" width="942" height="266" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-778" value="代取类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="819" y="46" width="125" height="49" as="geometry" />
+          <mxGeometry x="440.3527397260275" y="46" width="67.20890410958904" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-779" value="类型ID&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="67" y="169" width="107" height="67" as="geometry" />
+          <mxGeometry x="36.02397260273973" y="169" width="57.530821917808225" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-780" value="类型名称&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="213" y="169" width="126" height="67" as="geometry" />
+          <mxGeometry x="114.52397260273973" y="169" width="67.74657534246576" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-781" value="类型图标&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="376" y="169" width="126" height="67" as="geometry" />
+          <mxGeometry x="202.16438356164386" y="169" width="67.74657534246576" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-782" value="服务介绍&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="546" y="169" width="124" height="67" as="geometry" />
+          <mxGeometry x="293.56849315068496" y="169" width="66.67123287671234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-783" value="基础价格&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="731" y="169" width="126" height="67" as="geometry" />
+          <mxGeometry x="393.03767123287673" y="169" width="67.74657534246576" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-785" value="预计时长&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="942" y="169" width="125" height="67" as="geometry" />
+          <mxGeometry x="506.486301369863" y="169" width="67.20890410958904" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-786" value="排序序号&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="1115" y="169" width="126" height="67" as="geometry" />
+          <mxGeometry x="599.5034246575343" y="169" width="67.74657534246576" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-787" value="状态&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="1282" y="169" width="94" height="67" as="geometry" />
+          <mxGeometry x="689.2945205479452" y="169" width="50.541095890410965" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-788" value="创建时间&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="1424" y="166" width="136" height="67" as="geometry" />
+          <mxGeometry x="765.6438356164384" y="166" width="73.12328767123289" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-789" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-777" source="JwQB6CIqd5Kg6M3_PYsa-778" target="JwQB6CIqd5Kg6M3_PYsa-779">
           <mxGeometry relative="1" as="geometry">
