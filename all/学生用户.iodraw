@@ -16,13 +16,13 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-780" value="类型名称&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
           <mxGeometry x="200" y="170" width="126" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-781" value="类型图标&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-781" value="类型图标&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
           <mxGeometry x="376" y="170" width="126" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-782" value="服务介绍&#xa;text" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-782" value="服务介绍&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
           <mxGeometry x="552" y="170" width="124" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-783" value="基础价格&#xa;decimal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-783" value="基础价格&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
           <mxGeometry x="726" y="170" width="126" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-784" value="每公里加价&#xa;decimal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
