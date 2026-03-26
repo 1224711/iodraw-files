@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-46" value="管理员系统边界" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-60" width="403" height="1820" as="geometry" />
+          <mxGeometry x="210" y="-60" width="403" height="1820" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-48" value="增加服务类目" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-46">
           <mxGeometry x="201" y="35.605095541401276" width="157" height="40.57324840764331" as="geometry" />
@@ -249,8 +249,8 @@
             <mxPoint x="73.51517062381708" y="943.1014425886679" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-92" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="900" width="30" height="60" as="geometry" />
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-92" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-46">
+          <mxGeometry x="30" y="880" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
