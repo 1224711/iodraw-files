@@ -8,7 +8,7 @@
           <mxGeometry x="110" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-10" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="170" y="410" width="459" height="680" as="geometry" />
+          <mxGeometry x="180" y="410" width="459" height="680" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-12" value="注册账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="200" y="13.303002729754322" width="126" height="15.159235668789812" as="geometry" />
@@ -65,10 +65,13 @@
           <mxGeometry x="236" y="533.9763421292085" width="158" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-30" value="更新登录密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="239" y="564.6041856232939" width="157" height="15.159235668789812" as="geometry" />
+          <mxGeometry x="236" y="560.0041856232939" width="157" height="15.159235668789812" as="geometry" />
+        </mxCell>
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" source="c_BuaH2tFHA7NNvzXwKl-31" target="c_BuaH2tFHA7NNvzXwKl-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-31" value="查看订单历史" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="210" y="595.2320291173795" width="158" height="15.159235668789812" as="geometry" />
+          <mxGeometry x="236" y="595.2320291173795" width="158" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-32" value="查看消费记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="184" y="625.8598726114649" width="158" height="15.159235668789812" as="geometry" />
