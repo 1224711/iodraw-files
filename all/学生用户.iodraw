@@ -37,13 +37,13 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-759" value="代取账号&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
           <mxGeometry x="760.346002621232" y="170" width="66.71559633027523" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-760" value="代取姓名&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-760" value="代取姓名&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
           <mxGeometry x="853.5360419397116" y="170" width="66.18610747051113" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-761" value="联系电话&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-761" value="联系电话&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
           <mxGeometry x="946.1965923984272" y="170" width="66.18610747051113" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-762" value="接单时间&#xa;datetime" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-762" value="接单时间&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
           <mxGeometry x="1038.857142857143" y="170" width="66.71559633027523" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-763" value="完成状态&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
