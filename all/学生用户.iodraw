@@ -170,16 +170,12 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-294" value="订单管理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-257" target="JwQB6CIqd5Kg6M3_PYsa-261">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="382" y="735" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-295" value="系统设置" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-257" target="JwQB6CIqd5Kg6M3_PYsa-262">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="134" y="735" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-296" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-258" target="JwQB6CIqd5Kg6M3_PYsa-263">
@@ -303,9 +299,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-317" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.92;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-284" target="JwQB6CIqd5Kg6M3_PYsa-256">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="591" y="527" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-318" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-284" target="JwQB6CIqd5Kg6M3_PYsa-285">
