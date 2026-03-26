@@ -79,7 +79,7 @@
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-33" value="提交申诉" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="252" y="1274.358507734304" width="125" height="29.42675159235669" as="geometry" />
         </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-34" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.53;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" source="c_BuaH2tFHA7NNvzXwKl-11" target="c_BuaH2tFHA7NNvzXwKl-12">
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" source="c_BuaH2tFHA7NNvzXwKl-11" target="c_BuaH2tFHA7NNvzXwKl-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="162" y="40.83712465878071" />
