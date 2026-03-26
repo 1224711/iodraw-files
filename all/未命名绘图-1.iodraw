@@ -233,11 +233,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-56" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="16" y="630" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.533;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" source="c_BuaH2tFHA7NNvzXwKl-56" target="c_BuaH2tFHA7NNvzXwKl-56">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-56" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="780" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
