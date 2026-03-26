@@ -33,9 +33,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-877" value="1:1" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-868" source="JwQB6CIqd5Kg6M3_PYsa-869" target="JwQB6CIqd5Kg6M3_PYsa-870">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="213.89228295819936" y="160.31150442477878" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-878" value="1:1" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-868" source="JwQB6CIqd5Kg6M3_PYsa-869" target="JwQB6CIqd5Kg6M3_PYsa-871">
@@ -50,9 +48,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-880" value="1:N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-868" source="JwQB6CIqd5Kg6M3_PYsa-870" target="JwQB6CIqd5Kg6M3_PYsa-873">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="622.975884244373" y="323.96283185840707" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-881" value="1:N" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.03;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-868" source="JwQB6CIqd5Kg6M3_PYsa-870" target="JwQB6CIqd5Kg6M3_PYsa-874">
