@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-10" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="180" y="410" width="459" height="680" as="geometry" />
         </mxCell>
@@ -191,7 +188,7 @@
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-50" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="162" y="511.08280254777077" />
+              <mxPoint x="180" y="500" />
             </Array>
             <mxPoint x="100" y="430" as="sourcePoint" />
           </mxGeometry>
