@@ -34,7 +34,7 @@
             <mxPoint x="282.69999999999993" y="324.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-736" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="JwQB6CIqd5Kg6M3_PYsa-726">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-736" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.295;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-746" target="JwQB6CIqd5Kg6M3_PYsa-726">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="378.0493229548191" y="229.90172172162715" as="sourcePoint" />
             <mxPoint x="370" y="310" as="targetPoint" />
@@ -43,7 +43,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-737" value="年龄" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="398" y="342" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-738" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="JwQB6CIqd5Kg6M3_PYsa-737">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-738" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.461;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-746" target="JwQB6CIqd5Kg6M3_PYsa-737">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="391.4625125559505" y="229.7114621730068" as="sourcePoint" />
             <mxPoint x="351" y="340" as="targetPoint" />
@@ -55,7 +55,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-740" value="头像" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="535" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-741" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.793;exitY=0.917;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="JwQB6CIqd5Kg6M3_PYsa-739">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-741" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.657;exitY=1.061;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-746" target="JwQB6CIqd5Kg6M3_PYsa-739">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="412.29999999999995" y="226.68000000000006" as="sourcePoint" />
             <mxPoint x="470" y="320" as="targetPoint" />
