@@ -199,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-41" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-1">
-          <mxGeometry x="18" y="931" width="30" height="60" as="geometry" />
+          <mxGeometry y="929" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
