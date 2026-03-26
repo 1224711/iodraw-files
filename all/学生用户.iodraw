@@ -22,10 +22,10 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-754" value="地点&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
           <mxGeometry x="307.10353866317166" y="170" width="61.420707732634334" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-755" value="酬劳&#xa;decimal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-755" value="酬劳&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
           <mxGeometry x="394.99868938401045" y="170" width="61.95019659239843" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-756" value="用户账号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-756" value="用户账号&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
           <mxGeometry x="483.42332896461335" y="170" width="66.18610747051113" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-757" value="用户姓名&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
