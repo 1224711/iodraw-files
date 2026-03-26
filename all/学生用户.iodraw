@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-41" value="跑腿员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-1">
-          <mxGeometry x="58" y="835.2101788532351" width="41.17381489841986" height="53.97159389794845" as="geometry" />
+          <mxGeometry x="58" y="830.2601788532351" width="41.17381489841986" height="53.97159389794845" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
