@@ -135,23 +135,19 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-242" value="审核通过" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-222" target="JwQB6CIqd5Kg6M3_PYsa-223">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="83" y="1765" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-243" value="审核不通过" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-222" target="JwQB6CIqd5Kg6M3_PYsa-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274" y="1765" />
+              <mxPoint x="260" y="1770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-244" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-224" target="JwQB6CIqd5Kg6M3_PYsa-225">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="274" y="1893" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-245" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0;entryX=0.98;entryY=0.99;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-225" target="JwQB6CIqd5Kg6M3_PYsa-215">
