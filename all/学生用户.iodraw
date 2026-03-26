@@ -209,9 +209,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-301" value="资料合格" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-267" target="JwQB6CIqd5Kg6M3_PYsa-268">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1632" y="1239" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-302" value="资料不合格" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-267" target="JwQB6CIqd5Kg6M3_PYsa-269">
