@@ -68,7 +68,7 @@
           <mxGeometry x="236" y="564.6041856232939" width="157" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-31" value="查看订单历史" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="236" y="595.2320291173795" width="158" height="15.159235668789812" as="geometry" />
+          <mxGeometry x="193.5" y="595.2320291173795" width="158" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-32" value="查看消费记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="184" y="625.8598726114649" width="158" height="15.159235668789812" as="geometry" />
@@ -221,10 +221,10 @@
             <mxPoint x="236" y="603.8116469517745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-54" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" source="c_BuaH2tFHA7NNvzXwKl-61" target="c_BuaH2tFHA7NNvzXwKl-32">
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-54" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="80" y="450" as="sourcePoint" />
+            <mxPoint x="80" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-55" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-33">
