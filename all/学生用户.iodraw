@@ -32,13 +32,13 @@
           <mxGeometry x="115" y="1097" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-219" value="填写宿舍区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="108" y="1295" width="141" height="49" as="geometry" />
+          <mxGeometry x="108" y="1210" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-220" value="提交申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1417" width="126" height="49" as="geometry" />
+          <mxGeometry x="115.5" y="1330" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-221" value="等待管理员审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="91" y="1516" width="174" height="49" as="geometry" />
+          <mxGeometry x="91" y="1470" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-222" value="审核结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="121" y="1615" width="114" height="114" as="geometry" />
