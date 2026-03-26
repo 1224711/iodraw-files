@@ -19,8 +19,8 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-726" value="性别" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="268" y="337" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-727" value="管理员" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="205" y="320" width="63" height="40" as="geometry" />
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-727" value="管理员用户名" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="206" y="320" width="63" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-734" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.065;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-746" target="JwQB6CIqd5Kg6M3_PYsa-725">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
