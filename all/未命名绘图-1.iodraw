@@ -148,7 +148,7 @@
             <mxPoint x="84.6152394764083" y="336.27666183257134" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-21">
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.733;exitY=0.317;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" source="c_BuaH2tFHA7NNvzXwKl-61" target="c_BuaH2tFHA7NNvzXwKl-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="162" y="296.687898089172" />
@@ -252,7 +252,7 @@
             <mxPoint x="77.05527076826684" y="404.86960306053516" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-61" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-61" value="学生用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="40" y="335.99999999999994" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
