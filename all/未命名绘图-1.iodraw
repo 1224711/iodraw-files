@@ -74,7 +74,7 @@
           <mxGeometry x="236" y="625.8598726114649" width="158" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-33" value="提交申诉" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="252" y="656.4877161055507" width="125" height="15.159235668789812" as="geometry" />
+          <mxGeometry x="170" y="656.4877161055507" width="125" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-12">
           <mxGeometry relative="1" as="geometry">
@@ -232,7 +232,7 @@
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-55" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="90" y="440" as="sourcePoint" />
+            <mxPoint x="80" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-61" value="学生用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
