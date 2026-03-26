@@ -20,7 +20,7 @@
           <mxGeometry x="236" y="74.55868971792539" width="158" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-15" value="查看热门服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
-          <mxGeometry x="236" y="105.18653321201094" width="158" height="15.159235668789812" as="geometry" />
+          <mxGeometry x="216" y="105.18653321201094" width="158" height="15.159235668789812" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-16" value="查看跑腿员排行榜" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="220" y="135.81437670609648" width="189" height="15.159235668789812" as="geometry" />
@@ -95,7 +95,7 @@
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="162" y="82.29299363057325" />
+              <mxPoint x="180" y="120" />
             </Array>
             <mxPoint x="76.99674266884585" y="334.9870032951985" as="sourcePoint" />
           </mxGeometry>
