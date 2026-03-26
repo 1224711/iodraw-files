@@ -114,10 +114,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-162" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0.66;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-144" target="JwQB6CIqd5Kg6M3_PYsa-145">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1086" y="801" />
-              <mxPoint x="1086" y="851" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-163" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=0.95;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-144" target="JwQB6CIqd5Kg6M3_PYsa-146">
