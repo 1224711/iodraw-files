@@ -46,7 +46,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-762" value="接单时间&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
           <mxGeometry x="1038.857142857143" y="170" width="66.71559633027523" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-763" value="完成状态&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-763" value="完成状态&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-749">
           <mxGeometry x="1131.5176933158584" y="170" width="66.18610747051113" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-764" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-749" source="JwQB6CIqd5Kg6M3_PYsa-750" target="JwQB6CIqd5Kg6M3_PYsa-751">
