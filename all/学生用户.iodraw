@@ -26,7 +26,7 @@
           <mxGeometry x="213.89228295819936" y="542.1646017699115" width="144.93247588424438" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-875" value="提现申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="139.08842443729904" y="378.5132743362832" width="147.2700964630225" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="188.99842443729904" y="378.5132743362832" width="147.2700964630225" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-876" value="代取类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
           <mxGeometry x="344.7990353697749" y="378.5132743362832" width="146.10128617363344" height="54.5504424778761" as="geometry" />
@@ -68,16 +68,12 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-883" value="1:N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.8;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-868" source="JwQB6CIqd5Kg6M3_PYsa-876" target="JwQB6CIqd5Kg6M3_PYsa-874">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="418.43408360128615" y="487.6141592920354" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-884" value="1:1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-868" source="JwQB6CIqd5Kg6M3_PYsa-873" target="JwQB6CIqd5Kg6M3_PYsa-874">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="622.975884244373" y="487.6141592920354" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
