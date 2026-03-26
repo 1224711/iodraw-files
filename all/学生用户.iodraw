@@ -50,7 +50,7 @@
           <mxGeometry x="225" y="2284" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-184" value="等待管理员审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="254" y="1966" width="174" height="49" as="geometry" />
+          <mxGeometry x="240" y="1966" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-185" value="审核结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="345" y="2097" width="114" height="114" as="geometry" />
@@ -162,9 +162,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-205" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-184" target="JwQB6CIqd5Kg6M3_PYsa-185">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="341" y="2060" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-206" value="审核通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-185" target="JwQB6CIqd5Kg6M3_PYsa-183">
@@ -177,7 +175,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-207" value="审核不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0.64;entryY=0.99;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-185" target="JwQB6CIqd5Kg6M3_PYsa-180">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="463" y="2060" />
+              <mxPoint x="440" y="2060" />
             </Array>
           </mxGeometry>
         </mxCell>
