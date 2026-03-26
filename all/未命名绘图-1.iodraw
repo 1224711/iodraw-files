@@ -253,14 +253,8 @@
             <mxPoint x="277" y="1319.0718835304824" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-56" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-56" value="学生用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="30" y="630" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-57" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="940" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_BuaH2tFHA7NNvzXwKl-56" target="c_BuaH2tFHA7NNvzXwKl-57">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
