@@ -11,7 +11,7 @@
           <mxGeometry x="819" y="46" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-779" value="类型ID&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="43" y="170" width="107" height="67" as="geometry" />
+          <mxGeometry x="45" y="188" width="107" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-780" value="类型名称&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
           <mxGeometry x="213" y="184" width="126" height="67" as="geometry" />
@@ -53,9 +53,7 @@
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-791" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-777" source="JwQB6CIqd5Kg6M3_PYsa-778" target="JwQB6CIqd5Kg6M3_PYsa-781">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="439" y="132" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-792" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-777" source="JwQB6CIqd5Kg6M3_PYsa-778" target="JwQB6CIqd5Kg6M3_PYsa-782">
