@@ -11,15 +11,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-724" value="角色" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="186" y="283" width="73" height="40" as="geometry" />
+          <mxGeometry x="192" y="324" width="73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-725" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="245" y="336" width="72" height="40" as="geometry" />
+          <mxGeometry x="265" y="349" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-727" value="管理员用户名" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="342" y="343" width="77" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-734" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-746" target="JwQB6CIqd5Kg6M3_PYsa-725">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-734" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-746" target="JwQB6CIqd5Kg6M3_PYsa-725">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="338.5" y="219.15999999999997" as="sourcePoint" />
             <mxPoint x="298" y="230.5" as="targetPoint" />
