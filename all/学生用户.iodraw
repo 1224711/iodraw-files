@@ -5,58 +5,58 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-169" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="259" y="366" width="58" height="34" as="geometry" />
+          <mxGeometry x="259" y="156" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-170" value="进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="217" y="450" width="141" height="49" as="geometry" />
+          <mxGeometry x="217" y="240" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-171" value="选择注册方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="214" y="549" width="147" height="147" as="geometry" />
+          <mxGeometry x="214" y="339" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-172" value="微信授权获取&#xa;手机号/头像/昵称" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="304" y="1192" width="190" height="67" as="geometry" />
+          <mxGeometry x="304" y="982" width="190" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-173" value="输入手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="105" y="769" width="141" height="49" as="geometry" />
+          <mxGeometry x="105" y="559" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-174" value="获取验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="105" y="868" width="141" height="49" as="geometry" />
+          <mxGeometry x="105" y="658" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-175" value="输入验证码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="111" y="990" width="129" height="129" as="geometry" />
+          <mxGeometry x="111" y="780" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-176" value="设置登录密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="98" y="1201" width="156" height="49" as="geometry" />
+          <mxGeometry x="98" y="991" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-177" value="填写基本信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="208" y="1309" width="158" height="49" as="geometry" />
+          <mxGeometry x="208" y="1099" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-178" value="选择身份类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1408" width="146" height="146" as="geometry" />
+          <mxGeometry x="214" y="1198" width="146" height="146" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-179" value="填写学生信息&#xa;学号·学院·宿舍区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1957" width="184" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-180" value="填写跑腿员信息&#xa;学号·联系方式·身份证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="293" y="1627" width="217" height="67" as="geometry" />
+          <mxGeometry x="293" y="1417" width="217" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-181" value="学号验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="55" y="2093" width="114" height="114" as="geometry" />
+          <mxGeometry x="55" y="1883" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-182" value="资质审核" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="284" y="1766" width="114" height="114" as="geometry" />
+          <mxGeometry x="284" y="1556" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-183" value="注册成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="225" y="2280" width="125" height="49" as="geometry" />
+          <mxGeometry x="225" y="2070" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-184" value="等待管理员审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1962" width="174" height="49" as="geometry" />
+          <mxGeometry x="240" y="1752" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-185" value="审核结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="345" y="2093" width="114" height="114" as="geometry" />
+          <mxGeometry x="345" y="1883" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-186" value="进入登录页" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="235" y="2379" width="105" height="34" as="geometry" />
+          <mxGeometry x="235" y="2169" width="105" height="34" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-187" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-169" target="JwQB6CIqd5Kg6M3_PYsa-170">
           <mxGeometry relative="1" as="geometry">
@@ -116,7 +116,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-198" value="学生用户" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-178">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="112" y="1953" as="targetPoint" />
+            <mxPoint x="112" y="1743" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-199" value="跑腿员" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-178" target="JwQB6CIqd5Kg6M3_PYsa-180">
@@ -127,7 +127,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-200" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" target="JwQB6CIqd5Kg6M3_PYsa-181">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="99.12000000000012" y="2020" as="sourcePoint" />
+            <mxPoint x="99.12000000000012" y="1810" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-201" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-180" target="JwQB6CIqd5Kg6M3_PYsa-182">
@@ -138,7 +138,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-202" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=0;entryX=0.72;entryY=1;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-181">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="152.4799999999998" y="2020" as="targetPoint" />
+            <mxPoint x="152.4799999999998" y="1810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-203" value="验证成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-181" target="JwQB6CIqd5Kg6M3_PYsa-183">
@@ -164,7 +164,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-207" value="审核不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0.64;entryY=0.99;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-185" target="JwQB6CIqd5Kg6M3_PYsa-180">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="2056" />
+              <mxPoint x="440" y="1846" />
             </Array>
           </mxGeometry>
         </mxCell>
