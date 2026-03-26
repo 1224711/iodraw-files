@@ -165,7 +165,7 @@
             <mxPoint x="90" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_BuaH2tFHA7NNvzXwKl-45" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-23">
+        <mxCell id="c_BuaH2tFHA7NNvzXwKl-45" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;strokeColor=default;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="162" y="357.9435850773431" />
