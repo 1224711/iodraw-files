@@ -34,7 +34,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-787" value="状态&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
           <mxGeometry x="1289" y="175" width="94" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-788" value="创建时间&#xa;timestamp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-788" value="创建时间&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
           <mxGeometry x="1430" y="175" width="136" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-789" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-777" source="JwQB6CIqd5Kg6M3_PYsa-778" target="JwQB6CIqd5Kg6M3_PYsa-779">
