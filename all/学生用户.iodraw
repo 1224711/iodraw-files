@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-868" value="核心实体" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="878" y="19" width="727" height="629" as="geometry" />
+          <mxGeometry x="904" y="19" width="727" height="629" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-869" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
           <mxGeometry x="382.2009646302251" y="51.21061946902655" width="107.53054662379421" height="54.5504424778761" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="188.99842443729904" y="378.5132743362832" width="147.2700964630225" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-876" value="代取类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-868">
-          <mxGeometry x="344.7990353697749" y="378.5132743362832" width="146.10128617363344" height="54.5504424778761" as="geometry" />
+          <mxGeometry x="377.9990353697749" y="384.0032743362832" width="146.10128617363344" height="54.5504424778761" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-877" value="1:1" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-868" source="JwQB6CIqd5Kg6M3_PYsa-869" target="JwQB6CIqd5Kg6M3_PYsa-870">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +55,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="81.81672025723472" y="323.96283185840707" />
-              <mxPoint x="81.81672025723472" y="487.6141592920354" />
             </Array>
           </mxGeometry>
         </mxCell>
