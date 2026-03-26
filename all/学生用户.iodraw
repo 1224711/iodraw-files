@@ -215,7 +215,7 @@
             <mxPoint x="79.03172140835068" y="990.9833636588737" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-41" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-1">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-41" value="跑腿员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-1">
           <mxGeometry x="48" y="928.5" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
