@@ -37,10 +37,10 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-809" value="代取姓名&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-799">
           <mxGeometry x="1028.696926713948" y="170" width="89.42080378250591" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-810" value="完成时间&#xa;datetime" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-799">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-810" value="完成时间&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-799">
           <mxGeometry x="1153.8860520094563" y="170" width="90.13617021276596" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-811" value="完成详情&#xa;text" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-799">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-811" value="完成详情&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-799">
           <mxGeometry x="1279.0751773049647" y="170" width="89.42080378250591" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-812" value="是否支付&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-799">
