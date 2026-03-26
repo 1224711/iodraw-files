@@ -31,9 +31,6 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-217" value="填写学号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="115" y="1097" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-218" value="上传身份证照片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="92" y="1196" width="172" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-219" value="填写宿舍区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="108" y="1295" width="141" height="49" as="geometry" />
         </mxCell>
@@ -106,14 +103,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-237" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-217" target="JwQB6CIqd5Kg6M3_PYsa-218">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-237" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-217" target="JwQB6CIqd5Kg6M3_PYsa-219">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-238" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-218" target="JwQB6CIqd5Kg6M3_PYsa-219">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="178" y="1196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-239" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-219" target="JwQB6CIqd5Kg6M3_PYsa-220">
