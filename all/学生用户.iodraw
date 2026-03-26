@@ -142,7 +142,7 @@
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-245" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0;entryX=0.98;entryY=0.99;rounded=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-225" target="JwQB6CIqd5Kg6M3_PYsa-215">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="391" y="1893" />
+              <mxPoint x="370" y="1890" />
             </Array>
           </mxGeometry>
         </mxCell>
