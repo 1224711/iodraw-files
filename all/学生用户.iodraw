@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="880" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1730" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-777" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="212" width="1752" height="266" as="geometry" />
+          <mxGeometry x="-33" y="219" width="1752" height="266" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-778" value="代取类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
           <mxGeometry x="819" y="46" width="125" height="49" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="726" y="170" width="126" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-785" value="预计时长&#xa;int" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
-          <mxGeometry x="1093" y="170" width="125" height="67" as="geometry" />
+          <mxGeometry x="944" y="175" width="125" height="67" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-786" value="排序序号&#xa;int" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="JwQB6CIqd5Kg6M3_PYsa-777">
           <mxGeometry x="1268" y="170" width="126" height="67" as="geometry" />
@@ -70,14 +70,6 @@
             <Array as="points">
               <mxPoint x="789" y="132" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-794" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-777" source="JwQB6CIqd5Kg6M3_PYsa-778">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="973" y="132" />
-            </Array>
-            <mxPoint x="972.5" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-795" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="JwQB6CIqd5Kg6M3_PYsa-777" source="JwQB6CIqd5Kg6M3_PYsa-778" target="JwQB6CIqd5Kg6M3_PYsa-785">
