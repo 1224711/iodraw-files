@@ -20,7 +20,7 @@
           <mxGeometry x="268" y="337" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-727" value="管理员用户名" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="206" y="320" width="63" height="40" as="geometry" />
+          <mxGeometry x="191" y="321" width="77" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-734" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.065;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-746" target="JwQB6CIqd5Kg6M3_PYsa-725">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -40,13 +40,10 @@
             <mxPoint x="370" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-737" value="年龄" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="338" y="339" width="57" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-738" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.461;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-746" target="JwQB6CIqd5Kg6M3_PYsa-737">
+        <mxCell id="JwQB6CIqd5Kg6M3_PYsa-738" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.461;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JwQB6CIqd5Kg6M3_PYsa-746">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="391.4625125559505" y="229.7114621730068" as="sourcePoint" />
-            <mxPoint x="351" y="340" as="targetPoint" />
+            <mxPoint x="368.56353517000844" y="339.0524933565865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwQB6CIqd5Kg6M3_PYsa-739" value="手机号码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
