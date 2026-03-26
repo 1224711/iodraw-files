@@ -8,7 +8,7 @@
           <mxGeometry x="110" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-10" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="170" y="400" width="459" height="680" as="geometry" />
+          <mxGeometry x="130" y="410" width="459" height="680" as="geometry" />
         </mxCell>
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-12" value="注册账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="c_BuaH2tFHA7NNvzXwKl-10">
           <mxGeometry x="252" y="13.303002729754322" width="126" height="15.159235668789812" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="c_BuaH2tFHA7NNvzXwKl-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="c_BuaH2tFHA7NNvzXwKl-10" target="c_BuaH2tFHA7NNvzXwKl-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="162" y="112.9208371246588" />
+              <mxPoint x="180" y="160" />
             </Array>
             <mxPoint x="77.98903994709485" y="335.05786728389467" as="sourcePoint" />
           </mxGeometry>
