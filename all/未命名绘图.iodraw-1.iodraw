@@ -19,13 +19,13 @@
         <mxCell id="sygxXm584Tigyt7h0Vy9-39" value="跑腿姓名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
           <mxGeometry x="278.22265625" y="170" width="90.33203125" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-40" value="性别&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-40" value="性别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
           <mxGeometry x="404.6875" y="170" width="83.828125" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-41" value="年龄&#xa;int" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-41" value="年龄" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
           <mxGeometry x="523.92578125" y="170" width="67.20703125" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-42" value="手机号码&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-42" value="手机号码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
           <mxGeometry x="627.265625" y="170" width="89.609375" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-43" value="账号余额&#xa;decimal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
