@@ -32,14 +32,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="628" y="119" />
-              <mxPoint x="628" y="156" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-101" value="收藏" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sygxXm584Tigyt7h0Vy9-92" target="sygxXm584Tigyt7h0Vy9-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="708" y="119" />
+              <mxPoint x="690" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
