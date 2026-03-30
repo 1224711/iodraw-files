@@ -16,13 +16,13 @@
         <mxCell id="sygxXm584Tigyt7h0Vy9-72" value="类型名称" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-69">
           <mxGeometry x="200" y="170" width="126" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-73" value="类型图标&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-69">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-73" value="类型图标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-69">
           <mxGeometry x="376" y="170" width="126" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-74" value="服务介绍&#xa;text" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-69">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-74" value="服务介绍" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-69">
           <mxGeometry x="552" y="170" width="124" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-75" value="基础价格&#xa;decimal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-69">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-75" value="基础价格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-69">
           <mxGeometry x="726" y="170" width="126" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-76" value="预计时长&#xa;int" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-69">
