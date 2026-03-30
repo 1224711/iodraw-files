@@ -10,13 +10,13 @@
         <mxCell id="sygxXm584Tigyt7h0Vy9-22" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-21">
           <mxGeometry x="472" y="46" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-23" value="用户账号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-21">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-23" value="用户账号&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-21">
           <mxGeometry x="43" y="170" width="125" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-24" value="密码&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-21">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-24" value="密码&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-21">
           <mxGeometry x="218" y="170" width="116" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-25" value="姓名&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-21">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-25" value="姓名&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-21">
           <mxGeometry x="384" y="170" width="116" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-26" value="年龄&#xa;int" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-21">
