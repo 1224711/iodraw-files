@@ -10,63 +10,63 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-35" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="20" width="1110" height="266" as="geometry" />
+          <mxGeometry x="20" y="20" width="970" height="266" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-36" value="跑腿员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="518.14453125" y="46" width="78.76953125" height="49" as="geometry" />
+          <mxGeometry x="452.79296875" y="46" width="68.83463541666666" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-37" value="跑腿账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="31.07421875" y="170" width="91.0546875" height="67" as="geometry" />
+          <mxGeometry x="27.154947916666664" y="170" width="79.5703125" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-38" value="密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="158.26171875" y="170" width="83.828125" height="67" as="geometry" />
+          <mxGeometry x="138.30078125" y="170" width="73.25520833333333" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-39" value="跑腿姓名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="278.22265625" y="170" width="90.33203125" height="67" as="geometry" />
+          <mxGeometry x="243.13151041666666" y="170" width="78.93880208333333" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-40" value="性别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="404.6875" y="170" width="83.828125" height="67" as="geometry" />
+          <mxGeometry x="353.6458333333333" y="170" width="73.25520833333333" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-41" value="年龄" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="523.92578125" y="170" width="67.20703125" height="67" as="geometry" />
+          <mxGeometry x="457.8450520833333" y="170" width="58.73046875" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-42" value="手机号码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="627.265625" y="170" width="89.609375" height="67" as="geometry" />
+          <mxGeometry x="548.1510416666666" y="170" width="78.30729166666666" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-43" value="账号余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="753.0078125" y="170" width="90.33203125" height="67" as="geometry" />
+          <mxGeometry x="658.0338541666666" y="170" width="78.93880208333333" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-44" value="头像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="879.47265625" y="170" width="83.828125" height="67" as="geometry" />
+          <mxGeometry x="768.5481770833333" y="170" width="73.25520833333333" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-45" value="认证信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-35">
-          <mxGeometry x="999.43359375" y="170" width="91.0546875" height="67" as="geometry" />
+          <mxGeometry x="873.37890625" y="170" width="79.5703125" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sygxXm584Tigyt7h0Vy9-35" source="sygxXm584Tigyt7h0Vy9-36" target="sygxXm584Tigyt7h0Vy9-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="76.6015625" y="132" />
+              <mxPoint x="66.94010416666666" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sygxXm584Tigyt7h0Vy9-35" source="sygxXm584Tigyt7h0Vy9-36" target="sygxXm584Tigyt7h0Vy9-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200.17578125" y="132" />
+              <mxPoint x="174.92838541666666" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sygxXm584Tigyt7h0Vy9-35" source="sygxXm584Tigyt7h0Vy9-36" target="sygxXm584Tigyt7h0Vy9-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="323.02734375" y="132" />
+              <mxPoint x="282.28515625" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="sygxXm584Tigyt7h0Vy9-35" source="sygxXm584Tigyt7h0Vy9-36" target="sygxXm584Tigyt7h0Vy9-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="445.87890625" y="132" />
+              <mxPoint x="389.6419270833333" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,28 +78,28 @@
         <mxCell id="sygxXm584Tigyt7h0Vy9-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sygxXm584Tigyt7h0Vy9-35" source="sygxXm584Tigyt7h0Vy9-36" target="sygxXm584Tigyt7h0Vy9-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="672.0703125" y="132" />
+              <mxPoint x="587.3046875" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sygxXm584Tigyt7h0Vy9-35" source="sygxXm584Tigyt7h0Vy9-36" target="sygxXm584Tigyt7h0Vy9-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="798.53515625" y="132" />
+              <mxPoint x="697.8190104166666" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sygxXm584Tigyt7h0Vy9-35" source="sygxXm584Tigyt7h0Vy9-36" target="sygxXm584Tigyt7h0Vy9-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="921.38671875" y="132" />
+              <mxPoint x="805.17578125" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sygxXm584Tigyt7h0Vy9-35" source="sygxXm584Tigyt7h0Vy9-36" target="sygxXm584Tigyt7h0Vy9-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1044.9609375" y="132" />
+              <mxPoint x="913.1640625" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
