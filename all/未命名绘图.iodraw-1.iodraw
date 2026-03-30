@@ -8,7 +8,7 @@
           <mxGeometry x="633" y="45" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-93" value="接单信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="486" y="192" width="125" height="49" as="geometry" />
+          <mxGeometry x="480" y="200" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-94" value="收藏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="661" y="192" width="93" height="49" as="geometry" />
@@ -59,12 +59,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-104" value="完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sygxXm584Tigyt7h0Vy9-93" target="sygxXm584Tigyt7h0Vy9-97">
-          <mxGeometry x="0.1002" y="-21" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="549" y="266" />
               <mxPoint x="400" y="320" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-105" value="获得收益" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sygxXm584Tigyt7h0Vy9-97" target="sygxXm584Tigyt7h0Vy9-98">
