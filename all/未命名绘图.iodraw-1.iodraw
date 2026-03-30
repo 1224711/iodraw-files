@@ -31,7 +31,7 @@
         <mxCell id="sygxXm584Tigyt7h0Vy9-100" value="发布" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sygxXm584Tigyt7h0Vy9-92" target="sygxXm584Tigyt7h0Vy9-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="628" y="119" />
+              <mxPoint x="610" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="334" y="119" />
-              <mxPoint x="549" y="156" />
+              <mxPoint x="460" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
