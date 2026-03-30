@@ -14,7 +14,7 @@
           <mxGeometry x="660" y="200" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-95" value="代取类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="271" y="45" width="125" height="49" as="geometry" />
+          <mxGeometry x="351" y="40" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-96" value="跑腿员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="64" y="45" width="109" height="49" as="geometry" />
