@@ -19,10 +19,10 @@
         <mxCell id="sygxXm584Tigyt7h0Vy9-61" value="密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-57">
           <mxGeometry x="374" y="170" width="116" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-62" value="角色&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-57">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-62" value="角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-57">
           <mxGeometry x="540" y="170" width="116" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="sygxXm584Tigyt7h0Vy9-63" value="新增时间&#xa;timestamp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-57">
+        <mxCell id="sygxXm584Tigyt7h0Vy9-63" value="新增时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sygxXm584Tigyt7h0Vy9-57">
           <mxGeometry x="705" y="170" width="136" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sygxXm584Tigyt7h0Vy9-57" source="sygxXm584Tigyt7h0Vy9-58" target="sygxXm584Tigyt7h0Vy9-59">
