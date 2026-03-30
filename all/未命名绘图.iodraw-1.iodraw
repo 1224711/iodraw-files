@@ -17,7 +17,7 @@
           <mxGeometry x="351" y="40" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-96" value="跑腿员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="64" y="45" width="109" height="49" as="geometry" />
+          <mxGeometry x="180" y="40" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sygxXm584Tigyt7h0Vy9-97" value="完成订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="301" y="410" width="124" height="49" as="geometry" />
@@ -45,7 +45,6 @@
         <mxCell id="sygxXm584Tigyt7h0Vy9-102" value="选择" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sygxXm584Tigyt7h0Vy9-95" target="sygxXm584Tigyt7h0Vy9-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="334" y="119" />
               <mxPoint x="460" y="190" />
             </Array>
           </mxGeometry>
