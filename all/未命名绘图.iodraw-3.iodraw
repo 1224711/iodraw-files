@@ -26,7 +26,7 @@
           <mxGeometry x="68" y="740" width="162" height="162" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-33" value="设置登录密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="213" y="902" width="156" height="49" as="geometry" />
+          <mxGeometry x="199" y="940" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-34" value="填写基本信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212" y="1001" width="158" height="49" as="geometry" />
@@ -77,10 +77,12 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-48" value="否" style="startArrow=none;endArrow=block;exitX=0.92;exitY=0;entryX=0.71;entryY=1;rounded=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-32" target="2vrTr0vvPGzcYDxwo53m-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-49" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.21;entryY=0;rounded=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-32" target="2vrTr0vvPGzcYDxwo53m-33">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-49" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.21;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-32" target="2vrTr0vvPGzcYDxwo53m-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="178" y="866" />
+              <mxPoint x="149" y="921" />
+              <mxPoint x="150" y="921" />
+              <mxPoint x="150" y="940" />
             </Array>
           </mxGeometry>
         </mxCell>
