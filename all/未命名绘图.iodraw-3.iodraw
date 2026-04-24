@@ -4,38 +4,119 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="CleN8MZglw78f7j5HS5x-1" value="基础设施层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="71" y="753" width="1212" height="124" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CleN8MZglw78f7j5HS5x-2" value="云服务器ECS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-1">
+          <mxGeometry x="43" y="46" width="150" height="49" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CleN8MZglw78f7j5HS5x-3" value="容器服务K8s" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-1">
+          <mxGeometry x="243" y="46" width="150" height="49" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CleN8MZglw78f7j5HS5x-4" value="负载均衡SLB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-1">
+          <mxGeometry x="443" y="46" width="150" height="49" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="CleN8MZglw78f7j5HS5x-5" value="对象存储OSS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-1">
+          <mxGeometry x="643" y="46" width="151" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-6" value="日志与监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-1">
+          <mxGeometry x="844" y="46" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-7" value="CI/CD流水线" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-1">
+          <mxGeometry x="1034" y="46" width="151" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-8" value="数据服务层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="185" y="542" width="985" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-9" value="MySQL&#xa;主数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="CleN8MZglw78f7j5HS5x-8">
+          <mxGeometry x="43" y="48" width="79" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-10" value="Redis&#xa;缓存集群" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="CleN8MZglw78f7j5HS5x-8">
+          <mxGeometry x="172" y="48" width="80" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-11" value="MongoDB&#xa;文档存储" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="CleN8MZglw78f7j5HS5x-8">
+          <mxGeometry x="302" y="48" width="81" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-12" value="Elasticsearch&#xa;搜索" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="CleN8MZglw78f7j5HS5x-8">
+          <mxGeometry x="433" y="46" width="109" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-13" value="数据同步服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-8">
+          <mxGeometry x="592" y="64" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-14" value="基础数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-8">
+          <mxGeometry x="800" y="64" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-15" value="业务中台层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="368" width="1314" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-16" value="订单服务中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-15">
+          <mxGeometry x="43" y="46" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-17" value="智能调度引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-15">
+          <mxGeometry x="251" y="46" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-18" value="用户与权限管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-15">
+          <mxGeometry x="459" y="46" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-19" value="支付与对账中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-15">
+          <mxGeometry x="682" y="46" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-20" value="评价与信誉系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-15">
+          <mxGeometry x="906" y="46" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-21" value="消息推送服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-15">
+          <mxGeometry x="1129" y="46" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-22" value="前端/用户 - 微信小程序" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="194" width="1034" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-23" value="用户端界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-22">
+          <mxGeometry x="43" y="46" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-24" value="跑腿员端界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-22">
+          <mxGeometry x="233" y="46" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-25" value="即时聊天模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-22">
+          <mxGeometry x="440" y="46" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-26" value="微信支付SDK" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-22">
+          <mxGeometry x="646" y="46" width="153" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-27" value="地图定位组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-22">
+          <mxGeometry x="849" y="46" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-28" value="交互接入层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="405" y="20" width="544" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-29" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-28">
+          <mxGeometry x="43" y="46" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-30" value="即时通讯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-28">
+          <mxGeometry x="217" y="46" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-31" value="支付入口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="CleN8MZglw78f7j5HS5x-28">
+          <mxGeometry x="392" y="46" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-28" target="CleN8MZglw78f7j5HS5x-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-22" target="CleN8MZglw78f7j5HS5x-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-15" target="CleN8MZglw78f7j5HS5x-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-8" target="CleN8MZglw78f7j5HS5x-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
