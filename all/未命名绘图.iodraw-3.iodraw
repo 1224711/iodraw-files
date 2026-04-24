@@ -156,13 +156,11 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-63" value="手机号注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="520" as="sourcePoint" />
-            <mxPoint x="440" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="520" />
-            </Array>
+            <mxPoint x="300" y="490" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
