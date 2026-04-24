@@ -154,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-63" value="手机号注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="78" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
