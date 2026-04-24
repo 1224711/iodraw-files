@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-49" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-32" target="2vrTr0vvPGzcYDxwo53m-33">
-          <mxGeometry x="-0.5022" y="11" relative="1" as="geometry">
+          <mxGeometry x="-0.5022" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
