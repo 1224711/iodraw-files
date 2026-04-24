@@ -11,12 +11,12 @@
           <mxGeometry x="43" y="46" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-4" value="数据库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="190" y="655" width="226" height="142" as="geometry" />
+          <mxGeometry x="100" y="681" width="226" height="142" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-5" value="MySQL&#xa;关系型数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2vrTr0vvPGzcYDxwo53m-4">
           <mxGeometry x="43" y="46" width="156" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-6" value="后端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-6" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="123" y="463" width="621" height="142" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-7" value="Spring Boot&#xa;后端框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2vrTr0vvPGzcYDxwo53m-6">
