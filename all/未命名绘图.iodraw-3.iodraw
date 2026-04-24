@@ -10,7 +10,7 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-27" value="进入小程序" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="221" y="104" width="141" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-28" value="选择注册方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-28" value="选择注册方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="218" y="203" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-29" value="输入手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
