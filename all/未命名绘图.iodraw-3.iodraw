@@ -29,10 +29,10 @@
           <mxGeometry x="199" y="940" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-34" value="填写基本信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="212" y="1001" width="158" height="49" as="geometry" />
+          <mxGeometry x="198" y="1040" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-35" value="选择身份类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="218" y="1100" width="146" height="146" as="geometry" />
+          <mxGeometry x="204" y="1150" width="146" height="146" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-36" value="填写学生信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="1418" width="158" height="49" as="geometry" />
