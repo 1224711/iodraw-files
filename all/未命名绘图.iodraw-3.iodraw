@@ -17,13 +17,13 @@
           <mxGeometry x="140.69" y="137" width="91.75" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-6" value="姓名" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontSize=20;fontFamily=Courier New;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="210" y="190" width="93.94" height="67" as="geometry" />
+          <mxGeometry x="190" y="199" width="110" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-7" value="手机号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontSize=20;fontFamily=Courier New;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="340" y="190" width="105" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-8" value="头像" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontSize=20;fontFamily=Courier New;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="452.5" y="190" width="97.58" height="67" as="geometry" />
+          <mxGeometry x="490" y="199" width="97.58" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-9" value="创建时间" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontSize=20;fontFamily=Courier New;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="552.1468292682929" y="137" width="95.79073170731708" height="67" as="geometry" />
