@@ -61,10 +61,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-53" value="微信授权" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-39" target="CleN8MZglw78f7j5HS5x-40">
+        <mxCell id="CleN8MZglw78f7j5HS5x-53" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-39" target="CleN8MZglw78f7j5HS5x-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-54" value="手机注册" style="startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-39" target="CleN8MZglw78f7j5HS5x-41">
+        <mxCell id="CleN8MZglw78f7j5HS5x-54" value="手机注册" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-39" target="CleN8MZglw78f7j5HS5x-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.05;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-40" target="CleN8MZglw78f7j5HS5x-42">
