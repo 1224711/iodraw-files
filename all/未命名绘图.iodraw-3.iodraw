@@ -8,37 +8,37 @@
           <mxGeometry x="170" y="260" width="511" height="192" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-1" value="用户实体" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="170" y="530" width="1504" height="266" as="geometry" />
+          <mxGeometry x="170" y="530" width="790" height="266" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-2" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="713" y="46" width="92" height="49" as="geometry" />
+          <mxGeometry x="374.51462765957444" y="46" width="48.32446808510638" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-3" value="编号&#xa;bigint" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="43" y="170" width="102" height="67" as="geometry" />
+          <mxGeometry x="22.586436170212764" y="170" width="53.577127659574465" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-4" value="用户账号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="195" y="170" width="125" height="67" as="geometry" />
+          <mxGeometry x="102.42686170212765" y="170" width="65.65824468085106" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-5" value="密码&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="370" y="170" width="116" height="67" as="geometry" />
+          <mxGeometry x="194.34840425531914" y="170" width="60.930851063829785" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-6" value="姓名&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="535" y="170" width="116" height="67" as="geometry" />
+          <mxGeometry x="281.01728723404256" y="170" width="60.930851063829785" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-7" value="手机号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="701" y="170" width="116" height="67" as="geometry" />
+          <mxGeometry x="368.2114361702127" y="170" width="60.930851063829785" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-8" value="头像&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="866" y="170" width="116" height="67" as="geometry" />
+          <mxGeometry x="454.88031914893617" y="170" width="60.930851063829785" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-9" value="创建时间&#xa;timestamp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="1032" y="170" width="136" height="67" as="geometry" />
+          <mxGeometry x="542.0744680851063" y="170" width="71.43617021276596" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-10" value="性别&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="1218" y="170" width="116" height="67" as="geometry" />
+          <mxGeometry x="639.7739361702128" y="170" width="60.930851063829785" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-11" value="年龄&#xa;int" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="1384" y="170" width="93" height="67" as="geometry" />
+          <mxGeometry x="726.9680851063829" y="170" width="48.84973404255319" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-12" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1" source="VN0GLlH3Lr7ua8Jd0Vhf-2" target="VN0GLlH3Lr7ua8Jd0Vhf-3">
           <mxGeometry relative="1" as="geometry" />
