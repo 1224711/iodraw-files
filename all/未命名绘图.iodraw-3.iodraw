@@ -14,7 +14,7 @@
           <mxGeometry x="204" y="203" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-41" value="输入手机号获取验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="212" y="410" width="220" height="49" as="geometry" />
+          <mxGeometry x="193" y="330" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-42" value="填写基本信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212" y="654" width="158" height="49" as="geometry" />
@@ -56,12 +56,7 @@
             <mxPoint x="290.9999999999998" y="302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-54" value="手机注册" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" target="CleN8MZglw78f7j5HS5x-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="372" y="383" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-56" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.95;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-41" target="CleN8MZglw78f7j5HS5x-42">
+        <mxCell id="CleN8MZglw78f7j5HS5x-56" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-41" target="CleN8MZglw78f7j5HS5x-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-42" target="CleN8MZglw78f7j5HS5x-43">
