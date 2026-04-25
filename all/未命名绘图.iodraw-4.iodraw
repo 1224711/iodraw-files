@@ -17,10 +17,10 @@
           <mxGeometry x="412.1386366135239" y="70" width="107.10428807036833" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-5" value="密码" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="415.39296316657504" y="160" width="100.3299615173172" height="48.98" as="geometry" />
+          <mxGeometry x="412.14296316657504" y="130" width="100.3299615173172" height="48.98" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-6" value="跑腿姓名" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="428.3100131277364" y="223.36" width="93.96517900931828" height="50" as="geometry" />
+          <mxGeometry x="519.2400131277363" y="210" width="93.96517900931828" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-7" value="性别" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="619.9972269146367" y="240" width="90.45610593428151" height="50" as="geometry" />
