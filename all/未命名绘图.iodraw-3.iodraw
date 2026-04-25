@@ -29,10 +29,10 @@
           <mxGeometry x="210.5" y="780" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-46" value="注册成功可接单" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="204" y="1050" width="173" height="49" as="geometry" />
+          <mxGeometry x="204" y="1049" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-47" value="登录接单" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="246" y="1190" width="89" height="34" as="geometry" />
+          <mxGeometry x="246" y="1189" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-48" value="查看拒绝原因" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="500" y="836" width="157" height="49" as="geometry" />
@@ -76,7 +76,7 @@
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-61" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-46" target="CleN8MZglw78f7j5HS5x-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="1280" as="targetPoint" />
+            <mxPoint x="90" y="1279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-62" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;fontSize=20;fontFamily=Courier New;entryDx=0;entryDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-45" target="CleN8MZglw78f7j5HS5x-48">
@@ -100,12 +100,12 @@
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-47" target="CleN8MZglw78f7j5HS5x-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="1380" as="sourcePoint" />
-            <mxPoint x="87" y="1360" as="targetPoint" />
+            <mxPoint x="70" y="1379" as="sourcePoint" />
+            <mxPoint x="87" y="1359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-67" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="246.5" y="1280" width="89" height="34" as="geometry" />
+          <mxGeometry x="246.5" y="1279" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-70" value="重新提交注册" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="492" y="700" width="173" height="49" as="geometry" />
