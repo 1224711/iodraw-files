@@ -35,10 +35,10 @@
           <mxGeometry x="847.883452446399" y="270.11" width="97.47163276525563" height="50.75" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-11" value="头像" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="961.5194521023654" y="199.2481203007519" width="90.45610593428151" height="98.23308270676692" as="geometry" />
+          <mxGeometry x="961.52" y="199.25" width="90.46" height="50.75" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-12" value="认证信息" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="1013.57" y="101.02" width="98.25" height="38.98" as="geometry" />
+          <mxGeometry x="1013.57" y="111.02" width="98.25" height="38.98" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-13" value="是否审核" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="1013.18" y="54.25" width="98.25" height="45.75" as="geometry" />
@@ -73,7 +73,7 @@
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-23" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Courier New;fontSize=20;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAYe8tDZXCuBWmMl1tw-24" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Courier New;fontSize=20;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-12">
+        <mxCell id="VTAYe8tDZXCuBWmMl1tw-24" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0;entryY=0.5;rounded=0;fontFamily=Courier New;fontSize=20;entryDx=0;entryDy=0;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-25" value="" style="startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;fontFamily=Courier New;fontSize=20;entryDx=0;entryDy=0;exitX=1.009;exitY=0.397;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-13">
