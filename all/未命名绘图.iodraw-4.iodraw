@@ -35,7 +35,7 @@
           <mxGeometry x="700" y="226.67" width="91.44" height="44.24" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-11" value="头像" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="754.89" y="183.08" width="85.11" height="36.41" as="geometry" />
+          <mxGeometry x="754.89" y="185.08" width="85.11" height="36.41" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-12" value="认证信息" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="754.89" y="130.77" width="85.11" height="42.7" as="geometry" />
