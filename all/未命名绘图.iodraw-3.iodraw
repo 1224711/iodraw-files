@@ -23,7 +23,7 @@
           <mxGeometry x="140.69" y="137" width="91.75" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-6" value="姓名" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="276.5853658536585" y="170" width="83.94878048780488" height="67" as="geometry" />
+          <mxGeometry x="219.9953658536585" y="190" width="83.94878048780488" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-7" value="手机号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="370.0022029060716" y="170" width="62.41696938245978" height="67" as="geometry" />
@@ -46,7 +46,7 @@
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-13" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1" source="VN0GLlH3Lr7ua8Jd0Vhf-2" target="VN0GLlH3Lr7ua8Jd0Vhf-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1" source="VN0GLlH3Lr7ua8Jd0Vhf-2" target="VN0GLlH3Lr7ua8Jd0Vhf-5">
+        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1" source="VN0GLlH3Lr7ua8Jd0Vhf-2" target="VN0GLlH3Lr7ua8Jd0Vhf-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-15" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1" source="VN0GLlH3Lr7ua8Jd0Vhf-2" target="VN0GLlH3Lr7ua8Jd0Vhf-6">
