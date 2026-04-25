@@ -20,10 +20,10 @@
           <mxGeometry x="212" y="440" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-43" value="提交申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="246" y="580" width="126" height="49" as="geometry" />
+          <mxGeometry x="228" y="560" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-44" value="等待管理员审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="143" y="852" width="174" height="49" as="geometry" />
+          <mxGeometry x="204" y="670" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-45" value="审核是否通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="149" y="974" width="161" height="161" as="geometry" />
@@ -59,7 +59,7 @@
         <mxCell id="CleN8MZglw78f7j5HS5x-56" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-41" target="CleN8MZglw78f7j5HS5x-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-57" value="" style="startArrow=none;endArrow=block;exitX=0.31;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-42" target="CleN8MZglw78f7j5HS5x-43">
+        <mxCell id="CleN8MZglw78f7j5HS5x-57" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-42" target="CleN8MZglw78f7j5HS5x-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-43" target="CleN8MZglw78f7j5HS5x-44">
