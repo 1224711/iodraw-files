@@ -38,10 +38,10 @@
           <mxGeometry x="990" y="198.23" width="92.93" height="41.77" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-12" value="认证信息" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="1008.6400000000001" y="150" width="98.25" height="38.98" as="geometry" />
+          <mxGeometry x="1008.64" y="140" width="101.36" height="48.98" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-13" value="是否审核" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="1013.9599999999999" y="70" width="98.25" height="45.75" as="geometry" />
+          <mxGeometry x="1008.6399999999999" y="80.49" width="98.25" height="45.75" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-14" value="审核回复" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="1009.4200000000001" y="17.44" width="97.47" height="44.11" as="geometry" />
