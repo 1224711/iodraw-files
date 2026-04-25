@@ -29,7 +29,7 @@
           <mxGeometry x="249" y="1040" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-35" value="选择身份类型是否为学生" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1150" width="146" height="146" as="geometry" />
+          <mxGeometry x="250" y="1160" width="151" height="136" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-36" value="填写学生信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="81" y="1418" width="158" height="49" as="geometry" />
