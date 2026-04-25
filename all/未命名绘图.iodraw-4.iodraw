@@ -13,13 +13,13 @@
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-3" value="编号&#xa;bigint" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="43" y="170" width="102" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="VTAYe8tDZXCuBWmMl1tw-4" value="跑腿账号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
+        <mxCell id="VTAYe8tDZXCuBWmMl1tw-4" value="跑腿账号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="195" y="170" width="126" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="VTAYe8tDZXCuBWmMl1tw-5" value="密码&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
+        <mxCell id="VTAYe8tDZXCuBWmMl1tw-5" value="密码&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="371" y="170" width="116" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="VTAYe8tDZXCuBWmMl1tw-6" value="跑腿姓名&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
+        <mxCell id="VTAYe8tDZXCuBWmMl1tw-6" value="跑腿姓名&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="536" y="170" width="125" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-7" value="性别&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
