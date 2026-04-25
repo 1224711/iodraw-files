@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-1" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="800" y="20" width="1190" height="340" as="geometry" />
+          <mxGeometry x="770" y="20" width="1190" height="340" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-2" value="跑腿员" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="530" y="58.8" width="130" height="62.63" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="490" y="227.32" width="80" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-9" value="联系电话" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="598.56" y="226.67" width="90" height="43.59" as="geometry" />
+          <mxGeometry x="600" y="227.97" width="90" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-10" value="账号余额" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="700" y="226.67" width="91.44" height="44.24" as="geometry" />
+          <mxGeometry x="700" y="227.32" width="91.44" height="44.24" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-11" value="头像" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="815" y="223.59" width="85.11" height="36.41" as="geometry" />
