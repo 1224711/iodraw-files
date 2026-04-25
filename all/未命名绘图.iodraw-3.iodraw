@@ -17,7 +17,7 @@
           <mxGeometry x="130" y="3" width="102.4390243902439" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-4" value="用户账号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="104.92829268292684" y="170" width="79.46195121951219" height="67" as="geometry" />
+          <mxGeometry x="133.93" y="70" width="98.51" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-5" value="&lt;font face=&quot;Courier New&quot;&gt;密码&lt;/font&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="184.39024390243904" y="170" width="77.11609756097562" height="67" as="geometry" />
