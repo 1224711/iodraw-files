@@ -28,7 +28,7 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-34" value="填写基本信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="249" y="1040" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-35" value="选择身份类型是否为学生" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-35" value="选择身份类型是否为学生" style="rhombus;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="255" y="1150" width="146" height="146" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-36" value="填写学生信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;" vertex="1" parent="1">
