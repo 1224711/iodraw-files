@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1867" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,12 +61,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-53" value="微信授权" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-39" target="CleN8MZglw78f7j5HS5x-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="147" y="501" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="CleN8MZglw78f7j5HS5x-53" value="微信授权" style="startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-39" target="CleN8MZglw78f7j5HS5x-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-54" value="手机注册" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-39" target="CleN8MZglw78f7j5HS5x-41">
           <mxGeometry relative="1" as="geometry">
