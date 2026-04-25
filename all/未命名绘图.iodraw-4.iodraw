@@ -14,10 +14,10 @@
           <mxGeometry x="270" y="44.86" width="90" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-4" value="跑腿账号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="270" y="100" width="89.31" height="43.59" as="geometry" />
+          <mxGeometry x="270" y="90" width="89.31" height="53.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-5" value="密码" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="270.69" y="150" width="89.31" height="42.7" as="geometry" />
+          <mxGeometry x="270.69" y="148.65" width="99.31" height="52.7" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-6" value="跑腿姓名" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="300" y="200" width="100" height="46.29" as="geometry" />
