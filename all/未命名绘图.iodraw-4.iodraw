@@ -13,7 +13,7 @@
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-3" value="&lt;u&gt;编号&lt;/u&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="275.35" y="30" width="90" height="48.45" as="geometry" />
         </mxCell>
-        <mxCell id="VTAYe8tDZXCuBWmMl1tw-4" value="跑腿账号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
+        <mxCell id="VTAYe8tDZXCuBWmMl1tw-4" value="账号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="276.04" y="90" width="89.31" height="53.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-5" value="密码" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
