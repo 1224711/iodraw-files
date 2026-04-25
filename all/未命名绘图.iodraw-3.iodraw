@@ -11,10 +11,10 @@
           <mxGeometry x="216" y="104" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-77" value="跳转到登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="96.5" y="440" width="173" height="49" as="geometry" />
+          <mxGeometry x="210" y="260" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-78" value="输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="89" y="569" width="188" height="49" as="geometry" />
+          <mxGeometry x="202.5" y="390" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-79" value="登录信息是否正确？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="86.5" y="680" width="194" height="170" as="geometry" />
@@ -37,14 +37,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="303" y="203" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-85" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" target="2vrTr0vvPGzcYDxwo53m-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="184" y="300" />
-            </Array>
-            <mxPoint x="206" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-77" target="2vrTr0vvPGzcYDxwo53m-78">
