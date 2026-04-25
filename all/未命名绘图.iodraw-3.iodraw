@@ -38,7 +38,7 @@
           <mxGeometry x="480" y="1040" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-49" value="是否重新提交？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1180" width="162" height="162" as="geometry" />
+          <mxGeometry x="480" y="1180" width="162" height="162" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;fontFamily=Courier New;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-36" target="CleN8MZglw78f7j5HS5x-37">
           <mxGeometry relative="1" as="geometry">
@@ -91,11 +91,11 @@
         <mxCell id="CleN8MZglw78f7j5HS5x-63" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-48" target="CleN8MZglw78f7j5HS5x-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-64" value="是" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;" edge="1" parent="1" target="CleN8MZglw78f7j5HS5x-42">
+        <mxCell id="CleN8MZglw78f7j5HS5x-64" value="是" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-49" target="CleN8MZglw78f7j5HS5x-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="1281" />
-              <mxPoint x="500" y="465" />
+              <mxPoint x="720" y="1261" />
+              <mxPoint x="720" y="465" />
             </Array>
             <mxPoint x="590" y="1240" as="sourcePoint" />
           </mxGeometry>
