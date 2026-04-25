@@ -82,7 +82,7 @@
         <mxCell id="CleN8MZglw78f7j5HS5x-62" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;fontSize=20;fontFamily=Courier New;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-45" target="CleN8MZglw78f7j5HS5x-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-63" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-48">
+        <mxCell id="CleN8MZglw78f7j5HS5x-63" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-48" target="CleN8MZglw78f7j5HS5x-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="561" y="1166" as="targetPoint" />
           </mxGeometry>
@@ -111,8 +111,8 @@
         <mxCell id="CleN8MZglw78f7j5HS5x-67" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="246.5" y="1330" width="89" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-70" value="注册成功可接单" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1222.5" width="173" height="49" as="geometry" />
+        <mxCell id="CleN8MZglw78f7j5HS5x-70" value="重新提交注册" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="472" y="1215" width="173" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
