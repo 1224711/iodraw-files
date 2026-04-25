@@ -110,6 +110,9 @@
             <mxPoint x="87" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-67" value="登录接单" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="42" y="1362" width="89" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
