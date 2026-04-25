@@ -97,8 +97,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-65" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.89;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-49" target="CleN8MZglw78f7j5HS5x-47">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CleN8MZglw78f7j5HS5x-65" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-49" target="CleN8MZglw78f7j5HS5x-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="293" y="1460" />
+              <mxPoint x="163" y="1460" />
+              <mxPoint x="163" y="1457" />
+            </Array>
+            <mxPoint x="180" y="1460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
