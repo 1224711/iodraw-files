@@ -89,6 +89,11 @@
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-64" value="是" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-70" target="CleN8MZglw78f7j5HS5x-42">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="720" />
+              <mxPoint x="675" y="720" />
+              <mxPoint x="675" y="465" />
+            </Array>
             <mxPoint x="642" y="1246.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
