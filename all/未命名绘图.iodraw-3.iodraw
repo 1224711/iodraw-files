@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1707" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,19 +14,19 @@
           <mxGeometry x="312" y="260" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-78" value="输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="305" y="390" width="188" height="49" as="geometry" />
+          <mxGeometry x="380" y="370" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-79" value="登录信息是否正确？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="380" y="560" width="194" height="170" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-80" value="提示错误并返回登录" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry y="610.5" width="206" height="49" as="geometry" />
+          <mxGeometry x="50" y="620.5" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-81" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="390.5" y="810" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-82" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="369.5" y="930" width="58" height="34" as="geometry" />
+          <mxGeometry x="448" y="940" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Courier New;fontSize=20;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-74" target="2vrTr0vvPGzcYDxwo53m-75">
           <mxGeometry relative="1" as="geometry">
