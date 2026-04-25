@@ -125,7 +125,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-57" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontFamily=Courier New;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-38">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-57" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontFamily=Courier New;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-38" target="2vrTr0vvPGzcYDxwo53m-69">
           <mxGeometry x="-0.3298" relative="1" as="geometry">
             <mxPoint x="222" y="1817" as="targetPoint" />
             <mxPoint as="offset" />
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-67" value="选择注册方式" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="281" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
