@@ -14,7 +14,7 @@
           <mxGeometry x="310" y="27.15" width="90" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-4" value="跑腿账号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="310" y="83.7" width="89.31" height="43.59" as="geometry" />
+          <mxGeometry x="280" y="105.06" width="89.31" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-5" value="密码" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="290" y="148.65" width="89.31" height="42.7" as="geometry" />
@@ -41,10 +41,10 @@
           <mxGeometry x="840.11" y="160" width="85.11" height="42.7" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-13" value="是否审核" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="755" y="85.55" width="85.11" height="39.88" as="geometry" />
+          <mxGeometry x="840" y="108.77" width="85.11" height="39.88" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-14" value="审核回复" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="748.43" y="33.29" width="91.57" height="38.45" as="geometry" />
+          <mxGeometry x="836.88" y="50" width="91.57" height="38.45" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-15" value="" style="startArrow=none;endArrow=none;exitX=0;exitY=0.25;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=20;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-3">
           <mxGeometry relative="1" as="geometry" />
