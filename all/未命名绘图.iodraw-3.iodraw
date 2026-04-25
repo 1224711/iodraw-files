@@ -20,7 +20,7 @@
           <mxGeometry x="205.5" y="550" width="194" height="170" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-80" value="提示错误并返回登录" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="200" y="820" width="206" height="49" as="geometry" />
+          <mxGeometry x="68" y="820" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-81" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="380" y="935" width="173" height="49" as="geometry" />
