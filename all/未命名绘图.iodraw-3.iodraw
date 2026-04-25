@@ -17,13 +17,13 @@
           <mxGeometry x="305" y="390" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-79" value="登录信息是否正确？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="301.5" y="550" width="194" height="170" as="geometry" />
+          <mxGeometry x="380" y="560" width="194" height="170" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-80" value="提示错误并返回登录" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry y="610.5" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-81" value="进入系统主界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="312" y="810" width="173" height="49" as="geometry" />
+          <mxGeometry x="390.5" y="810" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-82" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="369.5" y="930" width="58" height="34" as="geometry" />
