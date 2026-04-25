@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="260" width="511" height="192" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-1" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="840" height="266" as="geometry" />
+          <mxGeometry x="150" y="452" width="840" height="266" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-2" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="340" y="70" width="100" height="49" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="340" y="190" width="110" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-8" value="头像" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="472.4217073170732" y="190" width="77.6590243902439" height="67" as="geometry" />
+          <mxGeometry x="472.42" y="190" width="87.58" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-9" value="创建时间&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="549.5768292682928" y="144.5" width="95.79073170731708" height="67" as="geometry" />
