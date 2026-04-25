@@ -29,10 +29,10 @@
           <mxGeometry x="730" y="273.36" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-9" value="联系电话" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="853.74" y="267.61" width="111.51" height="55.75" as="geometry" />
+          <mxGeometry x="838.58" y="267.61" width="111.51" height="55.75" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-10" value="账号余额" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="1066.0642471799902" y="249.2481203007519" width="111.51299656694458" height="98.23308270676692" as="geometry" />
+          <mxGeometry x="1066.06" y="249.25" width="111.51" height="70.75" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-11" value="头像" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="1222.1824423737125" y="249.2481203007519" width="103.48406081412458" height="98.23308270676692" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-20" value="" style="startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Courier New;fontSize=20;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAYe8tDZXCuBWmMl1tw-21" value="" style="startArrow=none;endArrow=block;exitX=0.79;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Courier New;fontSize=20;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-9">
+        <mxCell id="VTAYe8tDZXCuBWmMl1tw-21" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Courier New;fontSize=20;exitDx=0;exitDy=0;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-22" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Courier New;fontSize=20;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-10">
