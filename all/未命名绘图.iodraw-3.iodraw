@@ -182,7 +182,7 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="332" y="1870" as="sourcePoint" />
-            <mxPoint x="272" y="1920" as="targetPoint" />
+            <mxPoint x="324" y="1900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-69" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;;&quot;&gt;注册成功，跳转登录页&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
@@ -190,6 +190,9 @@
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-69" target="2vrTr0vvPGzcYDxwo53m-69">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-73" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="324" y="30" width="58" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
