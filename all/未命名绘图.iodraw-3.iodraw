@@ -25,11 +25,11 @@
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-6" value="姓名" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="219.9953658536585" y="190" width="83.94878048780488" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-7" value="手机号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="370.0022029060716" y="170" width="62.41696938245978" height="67" as="geometry" />
+        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-7" value="手机号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
+          <mxGeometry x="340" y="190" width="110" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-8" value="头像&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="450.7317073170732" y="170" width="77.6590243902439" height="67" as="geometry" />
+          <mxGeometry x="482.3417073170732" y="180" width="77.6590243902439" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-9" value="创建时间&#xa;timestamp" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="559.9968292682928" y="141" width="95.79073170731708" height="67" as="geometry" />
