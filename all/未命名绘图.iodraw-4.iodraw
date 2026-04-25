@@ -32,16 +32,16 @@
           <mxGeometry x="598.56" y="226.67" width="90" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-10" value="账号余额" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="688.5560430259212" y="209.23076923076923" width="72.95046728971963" height="44.243589743589745" as="geometry" />
+          <mxGeometry x="700" y="226.67" width="91.44" height="44.24" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-11" value="头像" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="740.943396226415" y="172.81589743589743" width="69.55138364779874" height="36.4148717948718" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-12" value="认证信息" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="754.8940880503143" y="122.05128205128206" width="75.8606289308176" height="42.70051282051282" as="geometry" />
+          <mxGeometry x="754.89" y="122.05" width="85.11" height="42.7" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-13" value="是否审核" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="754.8940880503143" y="70.17076923076922" width="73.53301886792453" height="39.88461538461539" as="geometry" />
+          <mxGeometry x="754.89" y="70.17" width="85.11" height="39.88" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-14" value="审核回复" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="748.4276729559749" y="26.153846153846153" width="72.94924528301885" height="38.45487179487179" as="geometry" />
