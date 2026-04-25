@@ -19,10 +19,10 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-31" value="获取并输入验证码" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="95" y="600" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-32" value="验证码是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-32" value="验证码是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="110" y="720" width="162" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-33" value="设置登录密码" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-33" value="设置登录密码" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="940" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-34" value="填写基本信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;" vertex="1" parent="1">
