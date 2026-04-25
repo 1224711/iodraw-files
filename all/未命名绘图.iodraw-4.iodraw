@@ -17,16 +17,16 @@
           <mxGeometry x="472.3729622363903" y="90" width="112.40510053948013" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-5" value="密码" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="321.6034820990682" y="160" width="103.48406081412458" height="48.98" as="geometry" />
+          <mxGeometry x="481.29348209906817" y="170.51" width="103.48406081412458" height="48.98" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-6" value="跑腿姓名" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="321.1574301128004" y="220" width="107.49852869053457" height="50" as="geometry" />
+          <mxGeometry x="321.6074301128004" y="249.25" width="107.49852869053457" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-7" value="性别" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="467.46248160863166" y="280" width="103.48406081412458" height="50" as="geometry" />
+          <mxGeometry x="633.0024816086317" y="273.36" width="103.48406081412458" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-8" value="年龄" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="606.6307013241785" y="240" width="82.96566944580677" height="50" as="geometry" />
+          <mxGeometry x="760.0007013241785" y="280" width="82.96566944580677" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-9" value="联系电话" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="909.9460519862678" y="249.2481203007519" width="111.51299656694458" height="98.23308270676692" as="geometry" />
