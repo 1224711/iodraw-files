@@ -11,7 +11,7 @@
           <mxGeometry x="739.2447278077487" y="67.4436090225564" width="84.99754781755762" height="71.8421052631579" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-3" value="编号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="408.6186366135239" y="30" width="106.83331500824629" height="50" as="geometry" />
+          <mxGeometry x="412.1386366135239" y="17.439999999999998" width="106.83331500824629" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-4" value="跑腿账号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="408.6186366135239" y="100" width="107.10428807036833" height="50" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="980.003452446399" y="223.36" width="97.47163276525563" height="50.75" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-11" value="头像" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="1017.07" y="158.23" width="92.93" height="41.77" as="geometry" />
+          <mxGeometry x="1013.96" y="174.10999999999999" width="92.93" height="41.77" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-12" value="认证信息" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="1013.57" y="111.02" width="98.25" height="38.98" as="geometry" />
+          <mxGeometry x="1013.1800000000001" y="130" width="98.25" height="38.98" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-13" value="是否审核" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="1013.18" y="54.25" width="98.25" height="45.75" as="geometry" />
+          <mxGeometry x="1013.9599999999999" y="70" width="98.25" height="45.75" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-14" value="审核回复" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="1013.96" y="5.89" width="97.47" height="44.11" as="geometry" />
