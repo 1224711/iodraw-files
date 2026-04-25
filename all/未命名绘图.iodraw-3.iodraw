@@ -16,13 +16,13 @@
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-3" value="编号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="22.586436170212764" y="170" width="53.577127659574465" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-4" value="用户账号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
+        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-4" value="用户账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="102.42686170212765" y="170" width="65.65824468085106" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-5" value="密码&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
+        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-5" value="密码&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="194.34840425531914" y="170" width="60.930851063829785" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-6" value="姓名&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
+        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-6" value="姓名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="281.01728723404256" y="170" width="60.930851063829785" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-7" value="手机号&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
