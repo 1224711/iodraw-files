@@ -26,10 +26,10 @@
           <mxGeometry x="610.0024816086317" y="273.36" width="103.48406081412458" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-8" value="年龄" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="760.0007013241785" y="280" width="82.96566944580677" height="50" as="geometry" />
+          <mxGeometry x="730" y="273.36" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-9" value="联系电话" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="909.9460519862678" y="249.2481203007519" width="111.51299656694458" height="98.23308270676692" as="geometry" />
+          <mxGeometry x="869.9960519862677" y="239.9981203007519" width="111.51299656694458" height="98.23308270676692" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-10" value="账号余额" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="1066.0642471799902" y="249.2481203007519" width="111.51299656694458" height="98.23308270676692" as="geometry" />
