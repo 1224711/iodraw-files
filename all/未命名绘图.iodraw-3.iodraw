@@ -29,7 +29,7 @@
           <mxGeometry x="210.5" y="780" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-46" value="注册成功可接单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1110" width="173" height="49" as="geometry" />
+          <mxGeometry x="70" y="1060" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-47" value="登录接单" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="1542" width="89" height="34" as="geometry" />
@@ -72,11 +72,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-60" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-45" target="CleN8MZglw78f7j5HS5x-46">
+        <mxCell id="CleN8MZglw78f7j5HS5x-60" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="168" y="860" />
+              <mxPoint x="168" y="861" />
+              <mxPoint x="168" y="1020" />
+              <mxPoint x="150" y="1020" />
             </Array>
+            <mxPoint x="150" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.06;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-46" target="CleN8MZglw78f7j5HS5x-47">
