@@ -32,7 +32,7 @@
           <mxGeometry y="1060" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-47" value="登录接单" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1290" width="89" height="34" as="geometry" />
+          <mxGeometry x="42" y="1264" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-48" value="查看拒绝原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212" y="1060" width="157" height="49" as="geometry" />
@@ -99,11 +99,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-65" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-49" target="CleN8MZglw78f7j5HS5x-47">
+        <mxCell id="CleN8MZglw78f7j5HS5x-65" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-49" target="CleN8MZglw78f7j5HS5x-47">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="293" y="1457" />
-            </Array>
             <mxPoint x="180" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
