@@ -23,7 +23,7 @@
           <mxGeometry x="540" y="201.35" width="85.11" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-12" value="认证信息" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="640" y="201.35" width="85.11" height="52.7" as="geometry" />
+          <mxGeometry x="760" y="110" width="85.11" height="52.7" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-13" value="是否审核" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="750" y="30.000000000000014" width="85.11" height="58.65" as="geometry" />
@@ -40,10 +40,10 @@
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-23" value="" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Courier New;fontSize=20;entryDx=0;entryDy=0;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAYe8tDZXCuBWmMl1tw-24" value="" style="startArrow=none;endArrow=none;exitX=0.75;exitY=1;entryX=0;entryY=0;rounded=0;fontFamily=Courier New;fontSize=20;entryDx=0;entryDy=0;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-12">
+        <mxCell id="VTAYe8tDZXCuBWmMl1tw-24" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0;rounded=0;fontFamily=Courier New;fontSize=20;entryDx=0;entryDy=0;endFill=0;exitDx=0;exitDy=0;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTAYe8tDZXCuBWmMl1tw-25" value="" style="startArrow=none;endArrow=none;entryX=0;entryY=0.5;rounded=0;fontFamily=Courier New;fontSize=20;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-13">
+        <mxCell id="VTAYe8tDZXCuBWmMl1tw-25" value="" style="startArrow=none;endArrow=none;entryX=0;entryY=0.5;rounded=0;fontFamily=Courier New;fontSize=20;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="VTAYe8tDZXCuBWmMl1tw-1" source="VTAYe8tDZXCuBWmMl1tw-2" target="VTAYe8tDZXCuBWmMl1tw-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="616.7044025157232" y="95.02564102564102" as="sourcePoint" />
           </mxGeometry>
