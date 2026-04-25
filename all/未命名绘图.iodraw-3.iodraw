@@ -20,7 +20,7 @@
           <mxGeometry x="89" y="569" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-79" value="登录信息是否正确？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="89" y="668" width="194" height="194" as="geometry" />
+          <mxGeometry x="86.5" y="680" width="194" height="194" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-80" value="提示错误并返回登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="935" width="206" height="49" as="geometry" />
@@ -56,7 +56,7 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-87" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-78" target="2vrTr0vvPGzcYDxwo53m-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-88" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-79" target="2vrTr0vvPGzcYDxwo53m-80">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-88" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-79" target="2vrTr0vvPGzcYDxwo53m-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-90" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.26;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-79" target="2vrTr0vvPGzcYDxwo53m-81">
