@@ -13,12 +13,6 @@
         <mxCell id="CleN8MZglw78f7j5HS5x-38" value="点击跑腿员注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="204" y="203" width="174" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-39" value="选择注册方式为是否手机注册" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="302" width="162" height="162" as="geometry" />
-        </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-40" value="微信授权获取头像昵称手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="537" width="254" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-41" value="输入手机号获取验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="324" y="546" width="220" height="49" as="geometry" />
         </mxCell>
@@ -56,22 +50,29 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-38" target="CleN8MZglw78f7j5HS5x-39">
+        <mxCell id="CleN8MZglw78f7j5HS5x-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="290.9999999999998" y="302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-53" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-39" target="CleN8MZglw78f7j5HS5x-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CleN8MZglw78f7j5HS5x-53" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="383" as="sourcePoint" />
+            <mxPoint x="147" y="537" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-54" value="手机注册" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-39" target="CleN8MZglw78f7j5HS5x-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CleN8MZglw78f7j5HS5x-54" value="手机注册" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" target="CleN8MZglw78f7j5HS5x-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372" y="383" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.05;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-40" target="CleN8MZglw78f7j5HS5x-42">
+        <mxCell id="CleN8MZglw78f7j5HS5x-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.05;entryY=-0.01;rounded=0;" edge="1" parent="1" target="CleN8MZglw78f7j5HS5x-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="147" y="629" />
             </Array>
+            <mxPoint x="147" y="604" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.95;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-41" target="CleN8MZglw78f7j5HS5x-42">
