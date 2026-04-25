@@ -32,10 +32,10 @@
           <mxGeometry x="454.88031914893617" y="170" width="60.930851063829785" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-9" value="创建时间&#xa;timestamp" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="542.0744680851063" y="170" width="71.43617021276596" height="67" as="geometry" />
+          <mxGeometry x="530" y="170" width="93.51" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-10" value="性别&#xa;varchar" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="639.7739361702128" y="170" width="60.930851063829785" height="67" as="geometry" />
+          <mxGeometry x="630" y="170" width="90.23" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-11" value="年龄&#xa;int" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="726.97" y="170" width="93.03" height="67" as="geometry" />
