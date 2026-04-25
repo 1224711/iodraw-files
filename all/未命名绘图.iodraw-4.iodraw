@@ -8,10 +8,10 @@
           <mxGeometry x="860" y="10" width="1190" height="340" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-2" value="跑腿员" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="553.2712113781264" y="58.79699248120302" width="63.61451692005884" height="62.63157894736843" as="geometry" />
+          <mxGeometry x="530" y="58.8" width="130" height="62.63" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-3" value="&lt;u&gt;编号&lt;/u&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="371.7804261447128" y="26.153846153846153" width="79.95700934579439" height="43.58974358974359" as="geometry" />
+          <mxGeometry x="360" y="26.15" width="90" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-4" value="跑腿账号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="360" y="77.84" width="89.31" height="43.59" as="geometry" />
