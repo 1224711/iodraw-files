@@ -10,9 +10,6 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-75" value="管理员打开系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="216" y="104" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-76" value="管理员是否登录？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="206" y="203" width="194" height="194" as="geometry" />
-        </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-77" value="跳转到登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="96.5" y="440" width="173" height="49" as="geometry" />
         </mxCell>
@@ -36,16 +33,18 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-75" target="2vrTr0vvPGzcYDxwo53m-76">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="303" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-85" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-76" target="2vrTr0vvPGzcYDxwo53m-77">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-85" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" target="2vrTr0vvPGzcYDxwo53m-77">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="184" y="300" />
             </Array>
+            <mxPoint x="206" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-77" target="2vrTr0vvPGzcYDxwo53m-78">
@@ -62,8 +61,10 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-90" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.26;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-79" target="2vrTr0vvPGzcYDxwo53m-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-91" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.54;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-76" target="2vrTr0vvPGzcYDxwo53m-81">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-91" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.54;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" target="2vrTr0vvPGzcYDxwo53m-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="2vrTr0vvPGzcYDxwo53m-81" target="2vrTr0vvPGzcYDxwo53m-82">
           <mxGeometry relative="1" as="geometry">
