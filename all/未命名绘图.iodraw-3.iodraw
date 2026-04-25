@@ -87,12 +87,13 @@
             <mxPoint x="561" y="1166" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CleN8MZglw78f7j5HS5x-64" value="是" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-70" target="CleN8MZglw78f7j5HS5x-42">
+        <mxCell id="CleN8MZglw78f7j5HS5x-64" value="是" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=Courier New;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-70" target="CleN8MZglw78f7j5HS5x-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="665" y="700" />
               <mxPoint x="665" y="720" />
-              <mxPoint x="675" y="720" />
-              <mxPoint x="675" y="465" />
+              <mxPoint x="579" y="720" />
+              <mxPoint x="579" y="465" />
             </Array>
             <mxPoint x="642" y="1246.9999999999998" as="sourcePoint" />
           </mxGeometry>
@@ -108,6 +109,9 @@
         </mxCell>
         <mxCell id="CleN8MZglw78f7j5HS5x-70" value="重新提交注册" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="492" y="700" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CleN8MZglw78f7j5HS5x-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CleN8MZglw78f7j5HS5x-47" target="CleN8MZglw78f7j5HS5x-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
