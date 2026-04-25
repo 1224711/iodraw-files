@@ -14,13 +14,13 @@
           <mxGeometry x="371.7804261447128" y="26.153846153846153" width="79.95700934579439" height="43.58974358974359" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-4" value="跑腿账号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="369.1459607359078" y="77.8425641025641" width="80.15981308411213" height="43.58974358974359" as="geometry" />
+          <mxGeometry x="360" y="77.84" width="89.31" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-5" value="密码" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="374.21605419385173" y="130.76923076923077" width="75.08971962616822" height="42.70051282051282" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-6" value="跑腿姓名" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="388.6135947308215" y="183.07692307692307" width="70.32614026483569" height="43.58974358974359" as="geometry" />
+          <mxGeometry x="370" y="183.08" width="88.94" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-7" value="性别" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="458.941257879508" y="217.94871794871796" width="67.69985286905344" height="43.58974358974359" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="538.8663198730382" y="217.94871794871796" width="58.87850467289718" height="43.58974358974359" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-9" value="联系电话" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
-          <mxGeometry x="606.2264150943396" y="217.94871794871796" width="72.94924528301885" height="43.58974358974359" as="geometry" />
+          <mxGeometry x="600" y="217.95" width="79.18" height="43.59" as="geometry" />
         </mxCell>
         <mxCell id="VTAYe8tDZXCuBWmMl1tw-10" value="账号余额" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="VTAYe8tDZXCuBWmMl1tw-1">
           <mxGeometry x="688.5560430259212" y="209.23076923076923" width="72.95046728971963" height="44.243589743589745" as="geometry" />
