@@ -34,7 +34,7 @@
         <mxCell id="2vrTr0vvPGzcYDxwo53m-36" value="填写学生信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="81" y="1418" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="2vrTr0vvPGzcYDxwo53m-37" value="填写跑腿员信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="2vrTr0vvPGzcYDxwo53m-37" value="填写跑腿员信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="374" y="1319" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2vrTr0vvPGzcYDxwo53m-38" value="学号验证是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Courier New;" vertex="1" parent="1">
