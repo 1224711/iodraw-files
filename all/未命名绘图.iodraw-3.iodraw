@@ -14,9 +14,9 @@
           <mxGeometry x="374.51462765957444" y="46" width="48.32446808510638" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-3" value="编号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
-          <mxGeometry x="22.586436170212764" y="170" width="53.577127659574465" height="67" as="geometry" />
+          <mxGeometry x="22.59" y="170" width="77.41" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-4" value="用户账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
+        <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-4" value="用户账号" style="whiteSpace=wrap;strokeWidth=2;shape=ellipse;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
           <mxGeometry x="102.42686170212765" y="170" width="65.65824468085106" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VN0GLlH3Lr7ua8Jd0Vhf-5" value="密码&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="VN0GLlH3Lr7ua8Jd0Vhf-1">
